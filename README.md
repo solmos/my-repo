@@ -3,4 +3,4 @@ Testing my setup
 
 This is a line from RStudio
 
-Another edit.
+Another edit.adding a line
